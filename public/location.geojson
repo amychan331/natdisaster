@@ -1,241 +1,285 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -77.034084142948,
-          38.909671288923
-        ]
+          51.5073509,
+          -0.1277583
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
-        "phoneFormatted": "(202) 234-7336",
-        "phone": "2022347336",
-        "address": "This is a tweet",
-        "city": "Washington DC",
-        "country": "United States",
-        "crossStreet": "at 15th St NW",
-        "postalCode": "20005",
-        "state": "D.C."
-      }
+        "message": "if ya hitting me up from my number, dm me bc i have a new number rn",
+        "screen_name": "saucsiee"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -77.049766,
-          38.900772
-        ]
+          15.870032,
+          100.992541
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
-        "phoneFormatted": "(202) 507-8357",
-        "phone": "2025078357",
-        "address": "2221 I St NW",
-        "city": "Washington DC",
-        "country": "United States",
-        "crossStreet": "at 22nd St NW",
-        "postalCode": "20037",
-        "state": "D.C."
-      }
+        "message": "RT @Spitfire: THE LONDON SPITFIRE IS THE 2018 @OVERWATCHLEAGUE CHAMPIONS! \n\n#AcesHigh #ItsComing\uc9d0 #CaptureHistory https://t.co/NckQwXEhD3",
+        "screen_name": "SuggyxX"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -77.043929,
-          38.910525
-        ]
+          20.593684,
+          78.96288
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
-        "phoneFormatted": "(202) 387-9338",
-        "phone": "2023879338",
-        "address": "1512 Connecticut Ave NW",
-        "city": "Washington DC",
-        "country": "United States",
-        "crossStreet": "at Dupont Circle",
-        "postalCode": "20036",
-        "state": "D.C."
-      }
+        "message": "RT @MiguelDelaney: Liverpool fans are looking forward to every game, excited. City same. Chelsea may be similar and their manager is now fu\u2026",
+        "screen_name": "sabari001"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -77.0672,
-          38.90516896
-        ]
+          51.5073509,
+          -0.1277583
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
-        "phoneFormatted": "(202) 337-9338",
-        "phone": "2023379338",
-        "address": "3333 M St NW",
-        "city": "Washington DC",
-        "country": "United States",
-        "crossStreet": "at 34th St NW",
-        "postalCode": "20007",
-        "state": "D.C."
-      }
+        "message": "The Antichrist hypocrite KKK Pharisees suck big time. A Match made in hell... #Dotard #SWaGodKing https://t.co/c1AzMBNaFw",
+        "screen_name": "IamSWaGodKing"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -77.002583742142,
-          38.887041080933
-        ]
+          40.7127753,
+          -74.0059728
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
-        "phoneFormatted": "(202) 547-9338",
-        "phone": "2025479338",
-        "address": "221 Pennsylvania Ave SE",
-        "city": "Washington DC",
-        "country": "United States",
-        "crossStreet": "btwn 2nd & 3rd Sts. SE",
-        "postalCode": "20003",
-        "state": "D.C."
-      }
+        "message": "RT @StrongLeanBody: Discover how the increasingly popular ketogenic diet regime will help you burn off fat like crazy, protect your brain,\u2026",
+        "screen_name": "DarknessDeniseH"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -76.933492720127,
-          38.99225245786
-        ]
+          52.3555177,
+          -1.1743197
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
-        "address": "8204 Baltimore Ave",
-        "city": "College Park",
-        "country": "United States",
-        "postalCode": "20740",
-        "state": "MD"
-      }
+        "message": "RT @ChelseaFC: Fantastic save from Caballero to keep us level, getting a strong right hand to a well-struck shot from Martinez.\n\n1-1 [90']\u2026",
+        "screen_name": "ColbyGreenCfc"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -77.097083330154,
-          38.980979
-        ]
+          51.5073509,
+          -0.1277583
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
-        "phoneFormatted": "(301) 654-7336",
-        "phone": "3016547336",
-        "address": "4831 Bethesda Ave",
-        "cc": "US",
-        "city": "Bethesda",
-        "country": "United States",
-        "postalCode": "20814",
-        "state": "MD"
-      }
+        "message": "RT @protectheflames: Me as the crew guy playing just hold on at the X factor red carpet x2 https://t.co/gWLtJDuiFO",
+        "screen_name": "gabbiehoran6448"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -77.359425054188,
-          38.958058116661
-        ]
+          51.5073509,
+          -0.1277583
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
-        "phoneFormatted": "(571) 203-0082",
-        "phone": "5712030082",
-        "address": "11935 Democracy Dr",
-        "city": "Reston",
-        "country": "United States",
-        "crossStreet": "btw Explorer & Library",
-        "postalCode": "20190",
-        "state": "VA"
-      }
+        "message": "RT @TimesFashion: Start exfoliating those knees ladies - shorts are big news for summer 2018 https://t.co/VZ9kW9QyA2 https://t.co/TbQF67TrC0",
+        "screen_name": "BerryCreek2"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -77.10853099823,
-          38.880100922392
-        ]
+          51.5073509,
+          -0.1277583
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
-        "phoneFormatted": "(703) 522-2016",
-        "phone": "7035222016",
-        "address": "4075 Wilson Blvd",
-        "city": "Arlington",
-        "country": "United States",
-        "crossStreet": "at N Randolph St.",
-        "postalCode": "22203",
-        "state": "VA"
-      }
+        "message": "It'll be OK guys",
+        "screen_name": "TaniaMonojir"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -75.28784,
-          40.008008
-        ]
+          51.5073509,
+          -0.1277583
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
-        "phoneFormatted": "(610) 642-9400",
-        "phone": "6106429400",
-        "address": "68 Coulter Ave",
-        "city": "Ardmore",
-        "country": "United States",
-        "postalCode": "19003",
-        "state": "PA"
-      }
+        "message": "RT @PrinnyRae: The way British people mind their business in public is scary! https://t.co/tZXxQySpLk",
+        "screen_name": "kortni_d"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -75.20121216774,
-          39.954030175164
-        ]
+          18.4655394,
+          -66.1057355
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
-        "phoneFormatted": "(215) 386-1365",
-        "phone": "2153861365",
-        "address": "3925 Walnut St",
-        "city": "Philadelphia",
-        "country": "United States",
-        "postalCode": "19104",
-        "state": "PA"
-      }
+        "message": "RT @PrinnyRae: The way British people mind their business in public is scary! https://t.co/tZXxQySpLk",
+        "screen_name": "tahanisarieh"
+      },
+      "type": "Feature"
     },
     {
-      "type": "Feature",
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -77.043959498405,
-          38.903883387232
-        ]
+          -23.5505199,
+          -46.63330939999999
+        ],
+        "type": "MultiPoint"
       },
       "properties": {
-        "phoneFormatted": "(202) 331-3355",
-        "phone": "2023313355",
-        "address": "1901 L St. NW",
-        "city": "Washington DC",
-        "country": "United States",
-        "crossStreet": "at 19th St",
-        "postalCode": "20036",
-        "state": "D.C."
-      }
+        "message": "RT @onedirection: Thank you 1D family for helping us celebrate #8YearsofOneDirection we hope you enjoyed reliving some of the amazing memor\u2026",
+        "screen_name": "Sttevitoria"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          51.44414800000001,
+          -0.410772
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "message": "INTERNATIONAL FOOTBALL NEWS : Chelsea 1-1 Inter (Chelsea win 5-4 on pens)",
+        "screen_name": "Perform_ePlayer"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          9.0764785,
+          7.398574
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "message": "RT @Arsenal: Welcome home, @MesutOzil1088 \u303d\ufe0f\n\nIt's good to have you back with us \ud83d\ude04\n\n#AFCTour2018 https://t.co/NqA9BvBzcj",
+        "screen_name": "enezeyi"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          45.5016889,
+          -73.567256
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "message": "idensrose? idenstilly? imma sleep on this bc I have, as usual, no idea what I want x",
+        "screen_name": "IDENVERSIO"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          51.5073509,
+          -0.1277583
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "message": "\ud83c\udfaf Beautiful evening. Special shout to Kasia Amanda Zendel for throwing a wicked party down in Greenwich \u2764",
+        "screen_name": "iamdjmidas"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          51.5073509,
+          -0.1277583
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "message": "Well I managed to break act one of a script and beat out the majority of a musical, so it's been a lazy Saturday ni\u2026 https://t.co/lFmgKE7vgp",
+        "screen_name": "EthanRunt"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          51.5073509,
+          -0.1277583
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "message": "@GayboiDani I cook you borger",
+        "screen_name": "Maxo11x"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          51.5073509,
+          -0.1277583
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "message": "RT @dailyskyfox: It was stinging so much I made a low effort comic to mock the pain. https://t.co/1jx3d1hmPJ",
+        "screen_name": "MaxNeedsSnacks"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          -34.6036844,
+          -58.3815591
+        ],
+        "type": "MultiPoint"
+      },
+      "properties": {
+        "message": "RT @DUALIPA: Fuck",
+        "screen_name": "Kharen5sos"
+      },
+      "type": "Feature"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
-
