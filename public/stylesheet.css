@@ -140,13 +140,19 @@ header {
   padding-bottom: 0;
 }
 
-#newspage .listings .item:hover .handle,
+#newspage .listings .item .title {
+  display: block;
+  color: #be1621;
+  font-weight: 700;
+}
+
+#newspage .listings .item:hover .title,
 #newspage .listings .item:hover {
   color: white;
   background-color: #807b7b;
 }
 
-#newspage .listings .item.active .handle { color: white; }
+#newspage .listings .item.active .title { color: white; }
 #newspage .listings .item.active {
   color: white;
   background-color: #807b7b;
