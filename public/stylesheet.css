@@ -1,5 +1,4 @@
 body {
-  color: #404040;
   font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
   margin: 0;
   padding: 0;
@@ -87,13 +86,28 @@ header {
 }
 
 /* Marker & Popup */
+.marker {
+  background-image: url('./angelhack_marker.png');
+  background-size: cover;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
 .mapboxgl-popup-close-button {
   display: none;
+}
+
+.mapboxgl-popup {
+  max-width: 200px;
+  padding-bottom: 30px;
 }
 
 .mapboxgl-popup-content {
   font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
   padding: 0;
+  margin-top: -15px;
   width: 180px;
 }
 
