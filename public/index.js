@@ -1,17 +1,17 @@
 require('dotenv').config()
-var geojson = require('./location.geojson')
+// var geojson = require('./location.geojson')
 
 window.onload = function () {
   // Isolate out query to get the geojson data - the query should be in the form of "?location=Redding"
   var params = (new URL(document.location)).searchParams;
   var query = params.get("location");
-  var url = `https://desolate-crag-37715.herokuapp.com/{query}`
-  console.log(url)
-  // fetch(url, { method: 'GET'})
-  // .then(res => res.json())
-  // .catch(error => console.error('Error:', error))
-  // .then(response => {
-  //   var geojson = response
+  // var url = `https://desolate-crag-37715.herokuapp.com/{query}`
+  var url = `http://localhost/angelhack_2018/public/location.geojson`
+  fetch(url, { method: 'GET'})
+  .then(res => res.json())
+  .catch(error => console.error('Error:', error))
+  .then(response => {
+    var geojson = response
 
     mapboxgl.accessToken = process.env.MAPBOXGL_TOKEN;
     var map = new mapboxgl.Map({
@@ -127,5 +127,5 @@ window.onload = function () {
         .setHTML('<p>' + currentFeature.properties.message + '</p>')
         .addTo(map);
     }
-  // })
+  })
 }
