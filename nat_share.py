@@ -1,9 +1,7 @@
 import tweepy
 import json
 import geocoder
-
-g = geocoder.google('Shasta')
-latlng = g.latlng
+import geojson
 
 class SearchTweet:
 
@@ -32,22 +30,12 @@ class SearchTweet:
             coord['location'].append(loc[0])
             coord['location'].append(loc[1])
             coord['text'] = (quer['text'])
-            self.user_info.append(coord)
+            self.user_info.append(geojson.Feature(geometry=geojson.MultiPoint(coord['location']), properties={'screen_name': coord['screen_name'], 'message': coord['text']}))
         return self.user_info
 
     def printNames(self):
         for info in self.user_info:
             print(info)
 
-# consumer_key = ''
-# consumer_secret = ''
 
-# access_token = ''
-# access_token_secret = ''
-
-# search = SearchTweet(consumer_key,consumer_secret,access_token,access_token_secret, "Shasta")
-
-# print(search.query())
-
-# search.printNames()
 
