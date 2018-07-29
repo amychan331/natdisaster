@@ -127,3 +127,27 @@ header {
 .mapboxgl-popup-content div {
   padding: 10px;
 }
+
+/* News Listing */
+#newspage {
+  border: 3px solid #807b7b;
+  border-radius: 6px;
+  margin: 20px auto;
+  width: 80%;
+}
+
+#newspage .listings {
+  padding-bottom: 0;
+}
+
+#newspage .listings .item:hover .handle,
+#newspage .listings .item:hover {
+  color: white;
+  background-color: #807b7b;
+}
+
+#newspage .listings .item.active .handle { color: white; }
+#newspage .listings .item.active {
+  color: white;
+  background-color: #807b7b;
+}

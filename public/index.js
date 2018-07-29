@@ -2,7 +2,11 @@ require('dotenv').config()
 var geojson = require('./location.geojson')
 
 window.onload = function () {
-  // let url = 'https://desolate-crag-37715.herokuapp.com/Fremont'
+  // Isolate out query to get the geojson data - the query should be in the form of "?location=Redding"
+  var params = (new URL(document.location)).searchParams;
+  var query = params.get("location");
+  var url = `https://desolate-crag-37715.herokuapp.com/{query}`
+  console.log(url)
   // fetch(url, { method: 'GET'})
   // .then(res => res.json())
   // .catch(error => console.error('Error:', error))
